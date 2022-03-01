@@ -13,5 +13,7 @@ public class TransaccionEntity {
     private String id;
     private String name;
     private String idClients;
+    private String idClients;
+    private String idMounts;
 
 }
