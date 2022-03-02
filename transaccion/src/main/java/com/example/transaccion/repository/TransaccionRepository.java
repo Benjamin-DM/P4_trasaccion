@@ -11,5 +11,4 @@ public interface TransaccionRepository extends ReactiveMongoRepository {
 
     Flux<TransaccionEntity> findByName(String name);
     Flux<TransaccionEntity> findByIdClients(String idClients);
-
 }

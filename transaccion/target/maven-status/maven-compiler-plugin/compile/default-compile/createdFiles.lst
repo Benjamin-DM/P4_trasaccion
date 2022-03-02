@@ -1,0 +1,7 @@
+com\example\transaccion\model\TransaccionEntity.class
+com\example\transaccion\service\TransaccionService.class
+com\example\transaccion\repository\TransaccionRepository.class
+com\example\transaccion\TransaccionApplication.class
+com\example\transaccion\service\TransaccionServiceImpl.class
+com\example\transaccion\controller\ControllerTransaccion.class
+com\example\transaccion\model\Mensaje.class

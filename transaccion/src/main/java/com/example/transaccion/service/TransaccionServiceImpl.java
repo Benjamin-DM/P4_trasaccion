@@ -8,7 +8,7 @@ import reactor.core.publisher.Mono;
 
 @Service
 @RequiredArgsConstructor
-public class TransaccionServiceImpl implements TransaccionService{
+public class TransaccionServiceImpl implements TransaccionServiceRed{
 
 
     @Override
